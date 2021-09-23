@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidAssignments">
         <activity
+            android:name=".ListItemsActivity"
+            android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" >
+
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
