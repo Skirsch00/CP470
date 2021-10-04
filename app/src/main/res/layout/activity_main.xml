@@ -16,8 +16,12 @@
         android:text="@string/hello_message" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/mainButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ButtonText" />
+
+
+
 </LinearLayout>
+

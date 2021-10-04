@@ -2,7 +2,11 @@
 <resources>
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">Bonjour!</string>
-    <string name="ButtonText">I\’m a button</string>
+    <string name="ButtonText">I\'m a button</string>
     <string name="LoginText">connexion</string>
     <string name="PasswordText">le mot de passe</string>
+    <string name="dialog_message">Voulez-vous terminer l\'activité?</string>
+    <string name="dialog_title">Finir?</string>
+    <string name="ok">Oui</string>
+    <string name="cancel">Non</string>
 </resources>
