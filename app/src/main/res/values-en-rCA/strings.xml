@@ -9,4 +9,6 @@
     <string name="dialog_title">Finir?</string>
     <string name="ok">Oui</string>
     <string name="cancel">Non</string>
+    <string name="start_chat">Démarrer la discussion</string>
+    <string name="send">Envoyer</string>
 </resources>
