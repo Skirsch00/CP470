@@ -27,6 +27,12 @@
         android:layout_height="wrap_content"
         android:text="@string/start_chat" />
 
+    <Button
+        android:id="@+id/testToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Toolbar" />
+
 
 </LinearLayout>
 

@@ -11,4 +11,6 @@
     <string name="cancel">Non</string>
     <string name="start_chat">Démarrer la discussion</string>
     <string name="send">Envoyer</string>
+    <string name="title">Voulez-vous revenir?</string>
+    <string name="new_message">Nouveau message</string>
 </resources>
